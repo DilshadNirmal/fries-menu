@@ -1,0 +1,19 @@
+{
+  "name": "fries-menu",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+    "open-props": "^1.6.16",
+    "postcss": "^8.4.32",
+    "postcss-jit-props": "^1.0.14"
+  }
+}
